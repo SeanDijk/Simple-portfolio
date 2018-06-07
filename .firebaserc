@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "sean-van-dijk"
+    "default": "sean-van-dijk",
+    "staging": "sean-van-dijk"
   }
 }
